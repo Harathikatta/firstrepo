@@ -20,4 +20,12 @@ First Repository for Demo Purpose
 link to [Google](https://www.google.com/)
 
 The function `sumIt` has the definition
-```def sumIt(n):x = 0for x in range(0,n):sum += xreturn sum```s
+
+```
+def sumIt(n):
+x = 0
+for x in range(0,n):
+    sum += x
+return sum
+
+```
