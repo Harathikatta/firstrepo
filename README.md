@@ -6,3 +6,9 @@ First Repository for Demo Purpose
 # Web Apps
 ### Web Apps
 ###### Web Apps
+
+- Go to Class
+- Listen 
+    - make notes
+- practice
+
