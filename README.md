@@ -12,3 +12,7 @@ First Repository for Demo Purpose
     - make notes
 - practice
 
+1. Missouri
+    1. Maryville
+2. Texas
+3. Arkansas
